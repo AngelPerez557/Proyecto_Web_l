@@ -1,0 +1,24 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+.titulo-principal i {
+    color: #3498db;
+    margin-right: 15px;
+}
+
+.titulo-principal {
+    color: #2c3e50;
+    text-align: center;
+    margin: 30px 0;
+    font-size: 2.5em;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+}
+
+.subtitulo {
+    text-align: center;
+    color: #7f8c8d;
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
